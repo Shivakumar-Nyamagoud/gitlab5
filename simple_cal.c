@@ -4,4 +4,5 @@ main()
   add()
   milt()
   divi()
+  printf("hello sir")
 }
