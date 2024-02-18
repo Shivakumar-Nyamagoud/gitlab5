@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 #include<stdlib.h>
 int *stack,top=-1,sz=0;
 
